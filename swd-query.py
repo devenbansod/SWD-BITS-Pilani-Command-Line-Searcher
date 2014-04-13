@@ -55,3 +55,21 @@ with Browser('firefox') as browser:
                except splinter.exceptions.ElementDoesNotExist :                   
                     print "No Such Search Result Found"
 
+               except :
+                    print "ERROR Occured !! \nPlease Try Again !!"
+
+          except :
+               print "ERROR Occured !! \nPlease Try Again !!"
+     except :
+          print "ERROR Occured !! \nPlease Try Again !!"
+
+
+#The Following Code should be uncommented if you want the Output in a HTML File  
+     
+     #f=open('query_results.html',"w");
+     #f.write("<html><table>"+results.html+"</table></html>")
+     #f.close()
+
+
+#Output the Results
+#os.system("firefox query_results.html")
