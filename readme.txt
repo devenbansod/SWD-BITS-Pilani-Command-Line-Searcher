@@ -8,12 +8,17 @@ INSTRUCTIONS TO USE
 ====================
 
 1) Download or Checkout the latest Commit
+ 
+*** Note : This is Very important as the whole script depends on the Module given below ***
 
-2) Open the Folder and Change your pwd to the Folder
+2) Then Open up terminal and enter the following 'sudo apt-get install splinter' or checkout the instructions on 
+   http://splinter.cobrateam.info/docs/install.html
 
-3) Run 'python swd-query.py'
+3) Now, Open the Folder and Change your pwd to the Folder
 
-4) Enjoy !!
+4) Run 'python swd-query.py'
+
+5) Enjoy !!
 
 
 
