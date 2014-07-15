@@ -23,6 +23,8 @@ INSTRUCTIONS TO USE
 5) Enjoy !!
 
 
+Note : The Script runs on Linux Disros as of now.
+
 
 P.S. : You can edit this as per your use. Or Like if you want to have names of all the members in a csv and want to get their IDs. Get it done by extending this.
 
