@@ -11,7 +11,9 @@ INSTRUCTIONS TO USE
  
 *** Note : This is Very important as the whole script depends on the Module given below ***
 
-2) Then Open up terminal and enter the following 'sudo apt-get install splinter' or checkout the instructions on 
+2) Then Open up terminal and enter the following 'pip install splinter' or 
+
+   checkout the instructions on 
    http://splinter.cobrateam.info/docs/install.html
 
 3) Now, Open the Folder and Change your pwd to the Folder
