@@ -31,7 +31,7 @@ with Browser('firefox') as browser:
           url = "http://swd/StudentSearch.aspx"
           browser.visit(url) 
      except : 
-          url = "http://www.bits-pilani.ac.in:12349/"
+          url = "http://www.bits-pilani.ac.in:12349/StudentSearch.aspx"
           browser.visit(url)
 
      browser.fill('idnoTxt',idno)
